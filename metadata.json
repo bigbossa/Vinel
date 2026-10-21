@@ -1,0 +1,6 @@
+{
+  "name": "VinylGuard - ระบบนับถอยหลังเตือนความจำป้ายไวนิล",
+  "description": "ระบบจัดการ ติดตาม และนับถอยหลังเตือนความจำวันปลดป้าย วันหมดอายุสัญญาเช่า และกำหนดการป้ายไวนิลโฆษณา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
